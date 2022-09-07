@@ -18,9 +18,9 @@
 
 </div>
 
-## I'm currently doing contract work, Youtube, and looking for full-time work.
+## I'm currently doing contract work, [Youtube](https://www.youtube.com/c/BlakeM), and looking for full-time work.
 - :brain: I have a Bachelor of Science  in Computer Engineering from the University of Cincinnati.
-- 🔭 Through my contract work and my Youtube channel I explore the latest in technology, typically with regards to large NLP models.
+- 🔭 Through my contract work and my [Youtube channel](https://www.youtube.com/c/BlakeM) I explore the latest in technology, typically with regards to large NLP models.
 - 💬 Ask me about : Machine learning, Deep learning, Computer vision, Natural language processing, and Cryptocurrency
 - 📫 How to reach me: blakecmallory@gmail.com or [blakemallory.com](www.blakemallory.com)
 
